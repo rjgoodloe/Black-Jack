@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Blackjack</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="losses">Losses:</string>
+    <string name="money">Money:</string>
+    <string name="current_bet">Current Bet:</string>
+    <string name="bust">Bust!</string>
+    <string name="dealer_wins">Dealer Wins!</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="draw">Draw!</string>
+    <string name="you_win">You Win!</string>
+    <string name="user">User</string>
+    <string name="money_no_colon">Money</string>
+    <string name="wins_losses">Wins/Losses</string>
+    <string name="wins_colon">Wins:</string>
 </resources>

@@ -2,8 +2,7 @@ package com.example.cse438.blackjack.util
 
 import android.content.Context
 import com.example.cse438.blackjack.R
-
-import java.util.ArrayList
+import java.util.*
 
 /**
  * Created by dennis on 26/01/2016.
@@ -15,7 +14,7 @@ class CardRandomizer {
         val res = ArrayList<Int>()
         val drawableResources = R.drawable()
         val c = R.drawable::class.java
-        val fields = c!!.getDeclaredFields()
+        val fields = c.declaredFields
 
         var i = 0
         val max = fields.size
