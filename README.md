@@ -8,6 +8,7 @@ Users play black jack against the dealer in typical fashion. Betting, hitting, a
 standing are done with gesture detection. 
 
 Gestures:
+
 Swipe up -> bet 
 
 Swipe right -> hit
